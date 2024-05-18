@@ -5,5 +5,6 @@
     - [math](https://nim-lang.org/docs/math.html)
     - [unicode](https://nim-lang.org/docs/unicode.html)
     - [random](https://nim-lang.org/docs/random.html)
+  - [Лінк на відео урок](https://youtu.be/Jkoh39xRcs4)
    - Шпаргалка
      ![Шпаргалка](Базові_поняття_для_маніпуляцій_з_числами_та_строками_в_Nim/(Шпаргалка)Базові_поняття_для_маніпуляцій_з_числами_та_строками_в_Nim(Шпаргалка).png)
